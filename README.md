@@ -1,2 +1,2 @@
 # FrankPracticalApplication1
-This is a public repository for a practical application for the  Berkeley Machine Learning Certificate.
+This is the first Practical Application for Berkeley Machine Learning Certificate Program
