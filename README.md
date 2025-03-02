@@ -1,2 +1,2 @@
-# FrankPractice5.1
-This is the public repository for a practice assignment for  Berkeley Machine Learning Certificate
+# FrankPracticalApplication1
+This is a public repository for a practical application for the  Berkeley Machine Learning Certificate.
