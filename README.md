@@ -13,7 +13,7 @@ This data comes to us from the UCI Machine Learning repository and was collected
 
 ## Notebook:
 
-Notebook can be found here:  Link to notebook
+Notebook can be found here: [Frank_Required_Assignment_5_1_Will_the_Customer_Accept_the_Coupon_.ipynb](Frank_Required_Assignment_5_1_Will_the_Customer_Accept_the_Coupon_.ipynb)
 
 
 
